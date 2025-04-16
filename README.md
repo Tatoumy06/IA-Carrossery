@@ -1,6 +1,6 @@
 # IA-Carrossery
 Developpement d'un logiciel de gestion carrosserie par IA
-ia-carrosserie/
+ia-carrossery/
 │
 ├── backend/                ← API avec FastAPI
 │   ├── main.py             ← Serveur principal
